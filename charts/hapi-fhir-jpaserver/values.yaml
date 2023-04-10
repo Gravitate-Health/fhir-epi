@@ -23,7 +23,7 @@ image:
   # -- the path inside the repository
   repository: hapi-fhir-epi
   # -- defaults to `Chart.appVersion`. As of v5.7.0, this is the `distroless` flavor
-  tag: "0.0.10"
+  tag: "0.0.12"
   # -- image pullPolicy to use
   pullPolicy: IfNotPresent
 
